@@ -1,4 +1,4 @@
-# <strong><i>This is for personal use. I cannot garuntee this is safe for your hardware.</i></strong>
+# <strong><i>This fork is for personal use. I cannot garuntee this is safe for your hardware. I reccomend you use the original ![Luma3DS fork](https://github.com/LumaTeam/Luma3DS).</i></strong>
 
 # Luma3DS
 
