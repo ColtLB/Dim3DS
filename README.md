@@ -1,3 +1,5 @@
+# <strong><i>This is for personal use. I cannot garuntee this is safe for your hardware.</i></strong>
+
 # Luma3DS
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/LumaTeam/Luma3DS/total)
